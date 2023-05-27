@@ -1,4 +1,4 @@
-(![github-header-image](https://github.com/PrasadDa08/PrasadDa08/assets/113402113/1b381df4-8ca6-4fb6-9153-3130fc12241a))
+![github-header-image](https://github.com/PrasadDa08/PrasadDa08/assets/113402113/1b381df4-8ca6-4fb6-9153-3130fc12241a)
 <h1 align="center">Hi 👋, I'm Prasad Datir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" width="400"/>
